@@ -18,3 +18,8 @@ Curated list of resources for Reinforcement Learning from Human Feedback and Lan
 * [Anthropic](https://www.anthropic.com/)
 * [OpenAI ChatGPT](https://openai.com/blog/chatgpt/)
 * [Google bard](https://blog.google/technology/ai/bard-google-ai-search-updates/)
+
+
+# Papers
+
+* **"Fine-Tuning Language Models from Human Preferences"** by D. Ziegler et al. \[[paper](https://arxiv.org/pdf/1909.08593.pdf), [code](https://github.com/openai/lm-human-preferences)].
