@@ -15,7 +15,7 @@ The paper [Transformer models: an introduction and catalog](https://arxiv.org/pd
 # Commercial products
 
 * [Anthropic](https://www.anthropic.com/)
-* [OpenAI ChatGPT]
+* OpenAI ChatGPT
   * ChatGPT (https://openai.com/blog/chatgpt/)
   * InstructGPT (https://openai.com/research/instruction-following)
 * [Google bard](https://blog.google/technology/ai/bard-google-ai-search-updates/)
