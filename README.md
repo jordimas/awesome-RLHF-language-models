@@ -54,6 +54,9 @@ The paper [Transformer models: an introduction and catalog](https://arxiv.org/pd
 
 * https://github.com/allenai/RL4LMs - provide easily customizable building blocks for training language models including implementations of on-policy algorithms, reward functions, metrics, datasets and LM based actor-critic policies
 * https://github.com/lvwerra/trl -  train transformer language models with Proximal Policy Optimization (PPO). The library is built on top of the transformers library by hugs Hugging Face.
+* https://github.com/lucidrains/PaLM-rlhf-pytorch - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture.
+* https://github.com/CarperAI/trlx - A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)
+* https://github.com/voidful/TextRL - Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedback) on any generation model in huggingface's transformer
 
 # Datasets
 
