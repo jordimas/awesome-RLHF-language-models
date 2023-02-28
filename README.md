@@ -7,21 +7,33 @@ Curated list of resources for Reinforcement Learning from Human Feedback and Lan
 The paper [Transformer models: an introduction and catalog](https://arxiv.org/pdf/2302.07730.pdf) contains a very comprenshive of the existing language models.
 
 
-# Open source projects which can produce models
+# Code
+
+## Reference implementations
+
+* https://github.com/openai/lm-human-preferences - The first code released to perform RLHF on LMs from OpenAI
+
+## Open source projects which can produce models
 
 * https://github.com/LAION-AI/Open-Assistant
 * [EluetherAI](http://www.eleuther.ai/)
 * [Carper.ai](https://carper.ai/)
 
-# RLFH open source libraries
+## RLFH open source libraries
 
 * https://github.com/allenai/RL4LMs - provide easily customizable building blocks for training language models including implementations of on-policy algorithms, reward functions, metrics, datasets and LM based actor-critic policies
 * https://github.com/lvwerra/trl -  train transformer language models with Proximal Policy Optimization (PPO). The library is built on top of the transformers library by hugs Hugging Face.
 
+# Datasets
+
+* https://huggingface.co/datasets/Anthropic/hh-rlhf - Human preference data about helpfulness and harmlessness
+
 # Comercial products
 
 * [Anthropic](https://www.anthropic.com/)
-* [OpenAI ChatGPT](https://openai.com/blog/chatgpt/)
+* [OpenAI ChatGPT]
+  * ChatGPT (https://openai.com/blog/chatgpt/)
+  * InstructGPT (https://openai.com/research/instruction-following)
 * [Google bard](https://blog.google/technology/ai/bard-google-ai-search-updates/)
 
 # Courses
@@ -36,3 +48,5 @@ The paper [Transformer models: an introduction and catalog](https://arxiv.org/pd
 * Fine-Tuning Language Models from Human Preferences by D. Ziegler et al. \[[paper](https://arxiv.org/pdf/1909.08593.pdf), [code](https://github.com/openai/lm-human-preferences)].
 * [Fine-tuning language models to find agreement among humans with diverse preferences](https://arxiv.org/pdf/2211.15006.pdf)
 * [It's chatgpt a general-purpose natural language processing task solver?](https://arxiv.org/pdf/2302.06476.pdf)
+
+
