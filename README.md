@@ -10,7 +10,7 @@ The paper [Transformer models: an introduction and catalog](https://arxiv.org/pd
 
 # Reinforcement Learning methods
 
-* [Proximal Policy Optimization] (https://en.wikipedia.org/wiki/Proximal_Policy_Optimization)
+* [Proximal Policy Optimization](https://en.wikipedia.org/wiki/Proximal_Policy_Optimization)
 
 # Commercial products
 
@@ -29,10 +29,14 @@ The paper [Transformer models: an introduction and catalog](https://arxiv.org/pd
 
 # Papers
 
-* Fine-Tuning Language Models from Human Preferences by D. Ziegler et al. \[[paper](https://arxiv.org/pdf/1909.08593.pdf), [code](https://github.com/openai/lm-human-preferences)].
-* [Fine-tuning language models to find agreement among humans with diverse preferences](https://arxiv.org/pdf/2211.15006.pdf)
-* [It's chatgpt a general-purpose natural language processing task solver?](https://arxiv.org/pdf/2302.06476.pdf)
+*2020*
+* [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/pdf/1909.08593.pdf)
 
+*2022*
+* [Fine-tuning language models to find agreement among humans with diverse preferences](https://arxiv.org/pdf/2211.15006.pdf)
+
+*2023*
+* [It's chatgpt a general-purpose natural language processing task solver?](https://arxiv.org/pdf/2302.06476.pdf)
 
 # Code
 
