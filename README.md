@@ -2,6 +2,11 @@
 
 Curated list of resources for Reinforcement Learning from Human Feedback and Language Models.
 
+# Language models
+
+The paper [Transformer models: an introduction and catalog](https://arxiv.org/pdf/2302.07730.pdf) contains a very comprenshive of the existing language models.
+
+
 # Open source projects which can produce models
 
 * https://github.com/LAION-AI/Open-Assistant
