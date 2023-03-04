@@ -36,6 +36,7 @@ The paper [Transformer models: an introduction and catalog](https://arxiv.org/pd
 * [Fine-tuning language models to find agreement among humans with diverse preferences](https://arxiv.org/pdf/2211.15006.pdf)
 * [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)
 * [Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://arxiv.org/pdf/2209.07858.pdf)
+
 *2023*
 * [It's chatgpt a general-purpose natural language processing task solver?](https://arxiv.org/pdf/2302.06476.pdf)
 * [The Capacity for Moral Self-Correction in Large Language Models](https://arxiv.org/pdf/2302.07459.pdf)
