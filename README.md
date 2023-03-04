@@ -61,4 +61,4 @@ The paper [Transformer models: an introduction and catalog](https://arxiv.org/pd
 # Datasets
 
 * https://huggingface.co/datasets/Anthropic/hh-rlhf - Human preference data about helpfulness and harmlessness
-
+* https://huggingface.co/datasets/stanfordnlp/SHP - SHP is a dataset of 385K collective human preferences over responses to questions/instructions in 18 different subject areas, from cooking to legal advice.
