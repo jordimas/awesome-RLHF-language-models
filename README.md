@@ -40,6 +40,7 @@ The paper [Transformer models: an introduction and catalog](https://arxiv.org/pd
 *2023*
 * [It's chatgpt a general-purpose natural language processing task solver?](https://arxiv.org/pdf/2302.06476.pdf)
 * [The Capacity for Moral Self-Correction in Large Language Models](https://arxiv.org/pdf/2302.07459.pdf)
+* [Is reinforcement learning (not) for natural language processing: benchmarks, baselines, and building blocks for natural language policy optimization](https://arxiv.org/pdf/2210.01241.pdf)
 
 # Code
 
